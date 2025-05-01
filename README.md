@@ -25,8 +25,3 @@ The following datasets were used for fine-tuning and evaluating scGPT. Each data
 | Precision | 0.729 | 0.936 |
 | Recall | 0.720 | 0.945 |
 | Macro F1 | 0.703 | 0.926 |
-
-## 📜 Citation
-
-If you use this work, please cite the relevant original datasets and the scGPT paper:
-
